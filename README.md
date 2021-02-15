@@ -1,2 +1,2 @@
 # Python-Learning
-This repositiry contains the codes i have practiced while learning Python
+This repository contains the codes I have practiced while learning Python.
